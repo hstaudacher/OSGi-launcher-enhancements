@@ -1,0 +1,3 @@
+Some additions to the PDE OSGi Launcher.
+
+* com.eclipsesource.launch.osgi.eliminator - kills a running OSGi instance when the same launch config will be started.
