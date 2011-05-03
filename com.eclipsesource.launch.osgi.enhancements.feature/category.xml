@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/com.eclipsesource.launch.osgi.enhancements.feature_1.0.0.qualifier.jar" id="com.eclipsesource.launch.osgi.enhancements.feature" version="1.0.0.qualifier">
+      <category name="com.eclipsesource.osgi.launch.enhancements"/>
+   </feature>
+   <category-def name="com.eclipsesource.osgi.launch.enhancements" label="OSGi Launcher Enhancements"/>
+</site>

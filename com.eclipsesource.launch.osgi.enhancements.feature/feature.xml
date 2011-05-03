@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="com.eclipsesource.launch.osgi.enhancements.feature"
+      label="OSGI Launcher Enhancements"
+      version="1.0.0.qualifier"
+      provider-name="EclipseSource">
+      
+   <plugin
+         id="com.eclipsesource.launch.osgi.eliminator"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+</feature>
